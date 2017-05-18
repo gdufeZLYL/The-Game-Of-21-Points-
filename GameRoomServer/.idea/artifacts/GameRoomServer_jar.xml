@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="GameRoomServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameRoomServer_jar</output-path>
+    <root id="archive" name="GameRoomServer.jar">
+      <element id="module-output" name="GameRoomServer" />
+    </root>
+  </artifact>
+</component>
